@@ -44,3 +44,5 @@ Follow these steps to get a local copy of the project up and running for develop
 ## Acknowledgments
 
 - The OMDB API ([https://www.omdbapi.com](https://www.omdbapi.com/))
+
+- live project URL https://arjun-15.github.io/IMDB-Clone/
